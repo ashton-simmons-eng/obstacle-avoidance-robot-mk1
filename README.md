@@ -6,7 +6,7 @@ Arduino-based robot using ultrasonic distance sensing and differential (tank-sty
 
 I wanted to build something that could react to its environment in real time, not just run a pre-programmed sequence. This robot drives forward continuously, using an ultrasonic sensor to measure the distance to whatever is ahead of it. When an obstacle comes within range, it slows one side's motors relative to the other, causing it to swerve away, then continues forward once clear.
 
-**Demo video:** [Watch on Google Drive](https://drive.google.com/file/d/1OvaWbJaSq4alvr-HEgvK1Kx1PLRk49AQ/view?usp=sharing)
+**Demo video:** [Watch on Google Drive](https://drive.google.com/drive/folders/1XlHEcPQ6aGmT5FfPhcJNv9zlFEtAIJjI)
 
 ## Hardware
 
